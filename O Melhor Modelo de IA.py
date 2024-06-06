@@ -9,22 +9,6 @@ class ModeloIA:
     def __str__(self):
         return self.nome
 
-# TODO: Crie uma função que recebe as características desejadas e recomenda um modelo de IA com base nelas:   
-
-# TODO: Crie uma lista de 'ModeloIA' com suas características pontuadas na descrição:
-    
-
-class ModeloIA:
-    def __init__(self, nome, desempenho, velocidade, custo, capacidades):
-        self.nome = nome
-        self.desempenho = desempenho
-        self.velocidade = velocidade
-        self.custo = custo
-        self.capacidades = capacidades
-    
-    def __str__(self):
-        return self.nome
-
 # Função para recomendar o modelo de IA com base nas características desejadas
 def recomendar_modelo(caracteristicas):
     modelos = criar_modelos()  # Chamada da função para criar a lista de modelos
