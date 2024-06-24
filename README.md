@@ -17,3 +17,9 @@ Desafios de código dos cursos da DIO
 - 3 / 3 - Validando Número de Telefone
 
 ---
+
+## Explorando o SageMaker Canvas com Lógica de Programação
+
+- 1 / 3 - Identificando os Benefícios do SageMaker Canvas
+- 2 / 3 - Explorando os Casos de Uso do SageMaker Canvas
+- 3 / 3 - Indicando a Aplicação dos Modelos de Base do SageMaker Canvas
