@@ -30,9 +30,9 @@ Desafios de código dos cursos da DIO
 
 ## Explorando POO com Python
 
-1 / 3 - Criando uma Classe de Usuário
-2 / 3 - Adicionando Funcionalidades ao Plano
-3 / 3 - Realizando Chamadas
+- 1 / 3 - Criando uma Classe de Usuário
+- 2 / 3 - Adicionando Funcionalidades ao Plano
+- 3 / 3 - Realizando Chamadas
 
 ---
 
